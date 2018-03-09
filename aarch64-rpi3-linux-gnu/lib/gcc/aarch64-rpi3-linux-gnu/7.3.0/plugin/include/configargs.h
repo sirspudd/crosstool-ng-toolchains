@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/opt/dev/src/OSS/crosstool-ng/.build/aarch64-rpi3-linux-gnu/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=aarch64-rpi3-linux-gnu --prefix=/opt/x-tools/aarch64-rpi3-linux-gnu --with-sysroot=/opt/x-tools/aarch64-rpi3-linux-gnu/aarch64-rpi3-linux-gnu/sysroot --enable-languages=c,c++ --with-cpu=cortex-a53 --with-pkgversion='crosstool-NG crosstool-ng-1.23.0-319-gaca85cbb' --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/opt/dev/src/OSS/crosstool-ng/.build/aarch64-rpi3-linux-gnu/buildtools --with-mpfr=/opt/dev/src/OSS/crosstool-ng/.build/aarch64-rpi3-linux-gnu/buildtools --with-mpc=/opt/dev/src/OSS/crosstool-ng/.build/aarch64-rpi3-linux-gnu/buildtools --with-isl=/opt/dev/src/OSS/crosstool-ng/.build/aarch64-rpi3-linux-gnu/buildtools --enable-lto --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-threads=posix --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/opt/x-tools/aarch64-rpi3-linux-gnu/aarch64-rpi3-linux-gnu/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a53" } };
